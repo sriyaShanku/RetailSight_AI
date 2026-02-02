@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+prophet
+xgboost
+motor
+python-multipart
+python-dotenv
+plotly
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+email-validator
