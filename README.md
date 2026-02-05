@@ -16,19 +16,19 @@ The proposed system is designed to be scalable, adaptable to changing market con
 
 ## Core Features of RetailSight AI
 
-1. Demand Forecasting Engine
+1. Demand Forecasting Engine : 
 Predicts future product demand using historical sales data by analyzing trends and seasonality with XGBoost and Prophet.
 
-2. Seasonality-Aware Predictions
+2. Seasonality-Aware Predictions : 
 Automatically captures weekly, monthly, and festival-based patterns to handle demand spikes and drops.
 
-3. Hybrid ML Model
+3. Hybrid ML Model : 
 Combines Prophet for time-series trends and XGBoost for complex non-linear patterns to improve accuracy.
 
-4. Smart Inventory Insights
+4. Smart Inventory Insights : 
 Generates actionable insights to help retailers decide when and how much stock to reorder.
 
-5. Real-Time Forecast API
+5. Real-Time Forecast API : 
 Provides REST APIs to fetch predictions dynamically for dashboards and external systems.
 
 6. Interactive Dashboard
