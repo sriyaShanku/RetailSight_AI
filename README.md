@@ -31,5 +31,5 @@ Generates actionable insights to help retailers decide when and how much stock t
 5. Real-Time Forecast API : 
 Provides REST APIs to fetch predictions dynamically for dashboards and external systems.
 
-6. Interactive Dashboard
+6. Interactive Dashboard : 
 React-based frontend to visualize demand trends, future forecasts, and product-level insights.
